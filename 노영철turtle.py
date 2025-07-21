@@ -14,6 +14,8 @@ player.shape("turtle")
 player.color("blue")
 player.penup()
 player.goto(0, 0)
+#추가
+#
 
 # 추적자 거북이
 chaser = turtle.Turtle()
